@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EdOtica">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/EdOtica.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

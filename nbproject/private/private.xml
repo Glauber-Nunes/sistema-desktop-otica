@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/EdOtica/EdOtica/src/Impressora_jasperexame/tela_exame.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/ModeloDao/DaoPcientes.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/dao/Conexao.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/View/Menu_Principal.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/View/Tela_Login.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/impressora_jasperPaci/AuxiPaciente.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/ModeloDao/DaoExames.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/Impressora_Jaspe/Tela_Cadastramento.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/ModeloBeans/BeansExame.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/impressora_jasperPaci/ImpressaoPaci.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/ImpressoraCarne/AuxiliarCarne2.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/impressora_jasperPaci/Laboratorio2.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/ModeloConection/ConexaoBd.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/Impressora_Jaspe/Impressao.java</file>
+            <file>file:/D:/EdOtica/EdOtica/src/ModeloBeans/BeansCliente.java</file>
+        </group>
+    </open-files>
+</project-private>
